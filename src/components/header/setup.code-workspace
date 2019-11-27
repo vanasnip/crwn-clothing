@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/Users/poppop/Documents/dev/compReact/crwn-clothing"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"terminal.foreground": "#fdfae8",
+			"terminal.background": "#202020",
+			"tab.unfocusedActiveBorder": "#fff0"
+		}
+	}
+}
